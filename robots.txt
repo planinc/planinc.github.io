@@ -20,4 +20,4 @@ Disallow: /
 User-agent: proximic
 Disallow: /
 
-Sitemap: https://planinc.exblog.jp/sitemap.xml
+Sitemap: https://planinc.github.io/sitemap.txt
