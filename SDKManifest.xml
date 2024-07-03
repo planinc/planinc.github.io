@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FileList
+  DisplayName="planinc"
+  MinVSVersion="14.0"
+  AppliesTo="JavaScript+WindowsAppContainer"
+  SupportsMultipleVersions="Error"
+  MoreInfo="https://planinc.github.io/">
+
+  <!-- JS -->
+  <File Content="js\planinc.js" />
+</FileList>
+
