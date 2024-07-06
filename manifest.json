@@ -6,6 +6,8 @@
 
   "start_url": "https://planinc.github.io",
 
+  "google-site-verification": "2iu7gLi0jovLSq4wzwgF4BnS9-J_pmOKxY2vXb7azfA",
+  
   "sellerId": "pub-6827901881006590",
   
   "publisherId": "pub-6827901881006590",
@@ -22,9 +24,9 @@
   
   "keyword": "PLANINC",
   
-  "description": "PLANINC
-   Online is the official digital destination of the world’s biggest movie magazine – with the very latest film news, decades of movie reviews, and topical discussions of the biggest talking points in the world of cinema."
+  "description": "Online is the official digital destination of the world’s biggest movie magazine – with the very latest film news, decades of movie reviews, and topical discussions of the biggest talking points in the world of cinema."
    ,
+   
   "icons": [{
 
     "src": "/asset/img/ico.png",
@@ -84,45 +86,9 @@
   }]
 
 }
-,
-{
-  "name": "planinc.github.io",
-  "version": "1.0.0",
-  "homepage": "https://planinc.github.io/",
-  "author": "Planinc (https://planinc.github.io)",
-  "license": "MIT",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "check-code": "prettier --check .",
-    "format": "prettier --write .",
-    "test": "jest --watch",
-    "test-coverage": "jest --coverage --verbose"
-  },
-  "dependencies": {
-    "@types/node": "20.5.1",
-    "@types/react": "18.2.20",
-    "@types/react-dom": "18.2.7",
-    "eslint": "8.47.0",
-    "eslint-config-next": "14.0.4",
-    "lodash": "4.17.21",
-    "next": "14.0.4",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-responsive": "9.0.2",
-    "typescript": "5.1.6",
-    "uid": "2.0.2"
-  },
-  "devDependencies": {
-    "@testing-library/jest-dom": "6.1.5",
-    "@testing-library/react": "14.1.2",
-    "@types/jest": "29.5.11",
-    "@types/lodash": "4.14.202",
-    "@typescript-eslint/typescript-estree": "6.15.0",
-    "jest": "29.7.0",
-    "jest-environment-jsdom": "29.7.0",
-    "prettier": "3.1.1"
-  }
-}
+
+
+
+    
+ 
+
